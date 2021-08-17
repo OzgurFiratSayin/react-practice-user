@@ -45,7 +45,6 @@ const AddUser = (props) => {
 
   const errorClearHandler = () => {
     setError(null);
-    console.log("in handler")
   };
 
   return (
